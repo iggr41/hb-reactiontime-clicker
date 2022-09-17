@@ -1,6 +1,7 @@
 # hb-reactiontime-clicker
 auto-clicker bot for human benchmark's reaction time test (https://humanbenchmark.com/tests/reactiontime)
-#Requirements
+
+# Requirements
 Pillow>=9.2.0
 PyTweening>=1.0.4
 mouseinfo>=0.1.3
